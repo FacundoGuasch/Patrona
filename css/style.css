@@ -627,7 +627,7 @@ color: #777;
   font-size:30px;
 	box-shadow: 2px 2px 3px #999;
   z-index:100;
-	margin-right: 3%;
+	margin-right: 1%;
 }
 .float:hover {
 	text-decoration: none;
